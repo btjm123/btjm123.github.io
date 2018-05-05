@@ -6,9 +6,9 @@ The game was a collabrative team effort by my team of four and was for a game co
 
 ### Excerpt of the code
 
-![alt text](https://raw.githubusercontent.com/btjm123/btjm123.github.io/forgithub.PNG)
+![forgithub](https://user-images.githubusercontent.com/19306879/39660591-d2210224-5074-11e8-8ed9-46cce1dbb38d.PNG)
 
-Code for calculating the kinematics and movement of the black trashbag in every frame. 
+Code responsible for calculating the kinematics and movement of the black trashbag in every frame. 
 
 ### Synopsis
 
