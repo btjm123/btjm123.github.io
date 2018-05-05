@@ -17,3 +17,8 @@ Have fun with the game!
 ### Game Developers
 
 Look at the credits lul.
+
+### Current Known Bugs
+
+1. The kinematics of the first level is rather awry. Player would get stuck to a particular platform and would be able to "teleport".
+2. This bug is a lot more glaring - no background music and sound effects. We implemented the sounds feature but for some reason, we are unable to produce any sound when exporting to HTML5 :( It would have been a lot more epic should the lack of sounds have been fixed.
