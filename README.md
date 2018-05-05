@@ -8,7 +8,7 @@ The game was a collabrative team effort by my team of four and was for a game co
 
 ![forgithub](https://user-images.githubusercontent.com/19306879/39660591-d2210224-5074-11e8-8ed9-46cce1dbb38d.PNG)
 
-Code responsible for calculating the kinematics and movement of the black trashbag in every frame. 
+Code responsible for calculating the kinematics and collison of the black trashbag in every frame. 
 
 ### Synopsis
 
@@ -22,7 +22,7 @@ Have fun with the game!
 
 ### Game Developers
 
-Look at the credits lul.
+Look at the game credits lul.
 
 ### Current Known Bugs
 
