@@ -4,6 +4,12 @@
 
 The game was a collabrative team effort by my team of four and was for a game competition, Singapore Games Creation Competition 2017. We successfully entered into finals as top 30 amongst hundreds of submissions of other games. Eventually, we obtained the Commendation Award from the contest.
 
+### Excerpt of the code
+
+![alt text](https://raw.githubusercontent.com/btjm123/btjm123.github.io/master/forgithub.png)
+
+Code for calculating the kinematics and movement of the black trashbag in every frame. 
+
 ### Synopsis
 
 Favouring convenience by littering and failing to protect the environment has only resulted in things going terribly wrong. In the year of 2065, trash bags have somehow gone alive and invaded the once-vibrant city of TofuNators, causing the city to descend in anarchy. It has come the time for you to stop this and to restore order and peace in the city.
