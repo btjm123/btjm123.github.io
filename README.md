@@ -1,5 +1,22 @@
 # Nature Injustice
 
+## Important Update!
+
+Regarding the lack of sounds bug, I discovered that this is due to an update as part of Google Chrome reviewing its Autoplay policy during late 2017.
+
+<blockquote>
+  An AudioContext must be created or resumed after the document received a user gesture to enable audio playback.
+  </blockquote>
+  
+So if you are using Google Chrome, just make sure you tap anywhere on the website and the sound will automatically start playing!
+Other browsers like Firefox (tried and tested) should be fine, I guess...
+
+### Current Known Bugs
+
+1. The kinematics of the first and second level is rather awry. Player would get stuck to a particular platform and would be able to "teleport".
+
+2. This bug is a lot more glaring - no background music and sound effects. We implemented the sounds feature but for some reason, we are unable to produce any sound when exporting to HTML5 :( It would have been a lot more epic should the lack of sounds have been fixed. (Refer to the above important update)
+
 ### Motivation
 
 The game was a collabrative team effort by my team of four and was for a game competition, Singapore Games Creation Competition 2017. We successfully entered into finals as top 30 amongst hundreds of submissions of other games. Eventually, we obtained the Commendation Award from the contest.
@@ -23,8 +40,3 @@ Have fun with the game!
 ### Game Developers
 
 Look at the game credits lul.
-
-### Current Known Bugs
-
-1. The kinematics of the first level is rather awry. Player would get stuck to a particular platform and would be able to "teleport".
-2. This bug is a lot more glaring - no background music and sound effects. We implemented the sounds feature but for some reason, we are unable to produce any sound when exporting to HTML5 :( It would have been a lot more epic should the lack of sounds have been fixed.
