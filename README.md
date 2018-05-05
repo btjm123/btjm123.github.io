@@ -43,4 +43,6 @@ Look at the game credits.
 
 ### Footnote
 
-Press the 'G' button during the first or second level to skip directly to the boss level! It's a backdoor (for debugging purposes) that allows me to skip the boring levels. I left the backdoor there as I was too lazy to remove it hehe...
+Press the 'G' button during the first or second level to skip directly to the boss level! It's a backdoor (for debugging purposes) that allows me to skip the boring levels. I left the backdoor there as I was too lazy to remove it hehe... 
+
+All artwork and ideas are original work of my team. All rights reserved.
