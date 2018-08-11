@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		<link rel='stylesheet' href='style.css?v=5'>
+		<title>Binomial Solver </title>
+		<meta charset='utf-8'>
+	</head>
+	<body>
+		<div class='block'>
+			<h1 class='heading'>Binomial Theorem Solver :D </h1>
+			<p class='desc' >Only works for expressions up to the power of 27 coz of integer overflow issues :(</p>
+		</div>
+		<input type='text' class='text-field' placeholder='Type the math here!' onfocus="this.placeholder=''" onblur="this.placeholder='Type the math here!'">
+		<textarea readonly class="text-box" rows='8'>This will contain the terms for your algebraic expression typed above. Press the Enter Key after you are done typing your algbraic expression!!</textarea>
+
+		<h2 class='heading'>Disclaimer</h2>
+		<p class='desc bug'>
+			Of course, there are bugs with many systems and this small application is no exception. It crashes and fails entirely when there is a minus sign at the front like it doesnt work for (-8+x)^5 or (-2-3x)^4. (you can try it out, everything goes haywire). hopefully, these bugs will be ironed out soon :)
+		</p>
+		<script
+  src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+		<script type='text/javascript' src='script.js?v=4'></script>
+
+	</body>
+</html>
